@@ -1,0 +1,17 @@
+[project]
+name = "week2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "ipykernel>=7.1.0",
+    "ipython>=9.8.0",
+    "kaleido>=1.2.0",
+    "nbformat>=5.10.4",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pyarrow>=22.0.0",
+    "pytest>=9.0.2",
+]
